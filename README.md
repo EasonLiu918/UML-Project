@@ -1,2 +1,2 @@
-# UML-Project
+# UML
 HKUST Volunteer Management System
